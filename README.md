@@ -78,3 +78,5 @@ Feel free to use this template for your personal portfolio. Attribution is appre
 - Font Awesome for icons
 - Google Fonts for typography
 - Inspiration from modern web design trends
+
+## Made by mrDevRussia aka Karim
